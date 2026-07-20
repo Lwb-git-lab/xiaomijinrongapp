@@ -1,0 +1,60 @@
+test_01_homepage_elements (TestCase.TestTianxingFinance.test_01_homepage_elements)
+测试用例1：验证首页核心元素正常显示 ... ERROR
+test_02_bottom_nav_switch (TestCase.TestTianxingFinance.test_02_bottom_nav_switch)
+测试用例2：底部导航栏Tab切换 ... ok
+test_03_click_and_scroll (TestCase.TestTianxingFinance.test_03_click_and_scroll)
+测试用例3：点击按钮 + 页面滑动 ... ERROR
+test_04_homepage_entries (TestCase.TestTianxingFinance.test_04_homepage_entries)
+测试用例4：点击首页几个核心入口（点击后返回，简化版） ... ok
+test_05_discover_page (TestCase.TestTianxingFinance.test_05_discover_page)
+测试用例5：发现页核心元素验证（简化版） ... ok
+test_06_mine_page (TestCase.TestTianxingFinance.test_06_mine_page)
+测试用例6：我的页面核心入口点击（简化版） ... ok
+test_07_home_title_again (TestCase.TestTianxingFinance.test_07_home_title_again)
+测试用例7：再次校验首页标题与副标题 ... ok
+test_08_home_loan_amount (TestCase.TestTianxingFinance.test_08_home_loan_amount)
+测试用例8：校验首页可借额度显示 ... ok
+test_09_home_click_jiehuan (TestCase.TestTianxingFinance.test_09_home_click_jiehuan)
+测试用例9：首页点击【借还记录】入口 ... ok
+test_10_home_click_chazhang (TestCase.TestTianxingFinance.test_10_home_click_chazhang)
+测试用例10：首页点击【查账还款】入口 ... ok
+test_11_home_click_xinrenli (TestCase.TestTianxingFinance.test_11_home_click_xinrenli)
+测试用例11：首页点击【新人礼】入口 ... ok
+test_12_home_click_huafeichongzhi (TestCase.TestTianxingFinance.test_12_home_click_huafeichongzhi)
+测试用例12：首页点击【话费充值】入口 ... ok
+test_13_home_scroll_guide_titles (TestCase.TestTianxingFinance.test_13_home_scroll_guide_titles)
+测试用例13：首页下滑校验使用指南区标题存在 ... ok
+test_14_home_swipe_up_down (TestCase.TestTianxingFinance.test_14_home_swipe_up_down)
+测试用例14：首页上滑下滑各两次（滑动稳定性） ... ok
+test_15_discover_open (TestCase.TestTianxingFinance.test_15_discover_open)
+测试用例15：切换到发现页并确认进入 ... ok
+test_16_discover_jiedaiedu (TestCase.TestTianxingFinance.test_16_discover_jiedaiedu)
+测试用例16：发现页借贷额度文本校验 ... ok
+test_17_discover_fulihongbao (TestCase.TestTianxingFinance.test_17_discover_fulihongbao)
+测试用例17：发现页福利红包文本校验 ... ok
+test_18_discover_click_kefu (TestCase.TestTianxingFinance.test_18_discover_click_kefu)
+测试用例18：发现页点击【智能客服】 ... ok
+test_19_discover_click_youhuiquan (TestCase.TestTianxingFinance.test_19_discover_click_youhuiquan)
+测试用例19：发现页点击【优惠券】 ... ok
+test_20_discover_click_xinyongka (TestCase.TestTianxingFinance.test_20_discover_click_xinyongka)
+测试用例20：发现页点击【信用卡】 ... ok
+test_21_discover_click_meiriqiandao (TestCase.TestTianxingFinance.test_21_discover_click_meiriqiandao)
+测试用例21：发现页点击【每日签到】 ... ok
+test_22_discover_lunbotu (TestCase.TestTianxingFinance.test_22_discover_lunbotu)
+测试用例22：发现页轮播图元素存在 ... ok
+test_23_mine_open (TestCase.TestTianxingFinance.test_23_mine_open)
+测试用例23：切换到我的页并确认进入 ... ok
+test_24_mine_click_wodezichan (TestCase.TestTianxingFinance.test_24_mine_click_wodezichan)
+测试用例24：我的页点击【我的资产】 ... ok
+test_25_mine_click_youhuiquan (TestCase.TestTianxingFinance.test_25_mine_click_youhuiquan)
+测试用例25：我的页点击【优惠券】 ... ok
+test_26_mine_click_yinhangka (TestCase.TestTianxingFinance.test_26_mine_click_yinhangka)
+测试用例26：我的页点击【银行卡】 ... ok
+test_27_mine_click_wodezhangdan (TestCase.TestTianxingFinance.test_27_mine_click_wodezhangdan)
+测试用例27：我的页点击【我的账单】 ... skipped 'Appium 会话不可用，跳过本用例（请确认模拟器与 Appium 已启动）'
+test_28_mine_click_shezhi (TestCase.TestTianxingFinance.test_28_mine_click_shezhi)
+测试用例28：我的页点击【设置】 ... skipped 'Appium 会话不可用，跳过本用例（请确认模拟器与 Appium 已启动）'
+test_29_mine_click_wodexiaoxi (TestCase.TestTianxingFinance.test_29_mine_click_wodexiaoxi)
+测试用例29：我的页点击【我的消息】 ... skipped 'Appium 会话不可用，跳过本用例（请确认模拟器与 Appium 已启动）'
+test_30_mine_click_wodekefu (TestCase.TestTianxingFinance.test_30_mine_click_wodekefu)
+测试用例30：我的页点击【我的客服】 ... 
